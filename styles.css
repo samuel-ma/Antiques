@@ -1,0 +1,208 @@
+
+
+body{
+  padding: 0;
+  margin: 0;
+  font-family: Poppins;
+  line-height: 30px;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 20px;
+  padding-bottom: 50px;
+  background-color: #fafafa;
+  color: #2D3134;
+}
+
+.header{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 40px;
+}
+
+h1{
+  font-weight: bold;
+  font-size: 50px;
+}
+
+.antique{
+  color: #FF7B29;
+}
+
+.logo{
+  font-weight: bold;
+  font-size: large;
+}
+
+.nav{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 400px;
+  font-size: 15px;
+}
+
+.cta{
+  font-size: smaller;
+  background-color: #FF7B29;
+  padding-right: 20px;
+  padding-left: 20px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  color: white;
+  border-radius: 3px;
+}
+
+.container{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-right: 30px;
+  margin-bottom: 40px;
+}
+
+.container p {
+  font-size: smaller;
+}
+
+.from{
+  max-width: 400px;
+  margin-bottom: 40px;
+}
+
+.year{
+  display: flex;
+  align-items: center;
+  margin-top: 30px;
+}
+
+.play-div{
+  display: flex;
+  align-items: center;
+}
+
+.play-button{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-right: 15px;
+  padding-left: 15px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border-radius: 30px;
+  border-width: 4px;
+  border-style: solid;
+  border-color: #FF7B29;
+  margin-right: 5px;
+}
+
+.discover{
+  display: flex;
+  align-items: center;
+  font-size: smaller;
+}
+
+.discover-div{
+  padding-right: 15px;
+  padding-left: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: #FB9333;
+  border-radius: 5px;
+  color: white;
+  margin-right: 40px;
+}
+
+.vase{
+  display: flex;
+  align-content: center;
+  justify-content: center;
+}
+
+.china{
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+}
+
+.year-div{
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.search{
+  margin-bottom: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  box-shadow: 0 40px 200px white;
+}
+
+.norway{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 100px;
+}
+
+.location h4{
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.norway p{
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: smaller;
+}
+
+.search-div{
+  background-color: #FF7B29;
+  color: white;
+  display: flex;
+  align-items: center;
+  padding-right: 30px;
+  padding-left: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 5px;
+  box-shadow: 0 25px 50px  #FF7B29;
+  font-size: smaller;
+}
+
+.search-icon{
+  margin-right: 5px;
+}
+
+.top{
+  margin-bottom: 50px;
+}
+
+.statues{
+  display: flex;
+  align-items: center;
+}
+
+.image-div-1{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.image-div-2{
+  display: flex;
+  align-items: center;
+}
+
+.statues-one{
+  display: flex;
+  align-items: center;
+}
+
+.statues-two{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
