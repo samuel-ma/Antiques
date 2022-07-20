@@ -205,4 +205,103 @@ h1{
   align-items: center;
 }
 
+.cards{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.recent{
+  margin-bottom: 50px;
+}
+
+.categories-div{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.arrows{
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.arrow-right{
+  border-radius: 30px;
+  padding-right: 15px;
+  padding-left: 15px;
+  padding-bottom: 15px;
+  padding-top: 15px;
+  background-color: #FF7B29;
+}
+
+.added-div{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 380px;
+  height: inherit;
+  background-color: #FB9333;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 15px;
+}
+
+.added-div h3{
+  margin-bottom: 0;
+}
+
+.weapons-desc{
+  display: flex;
+  align-content: center;
+  font-size: smaller;
+}
+
+.ninetees{
+  margin-right: 20px;
+}
+
+.ninetees-2{
+  margin-top: 0;
+}
+
+.details-card{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+
+.details-button{
+  outline: none;
+  border: none;
+  padding-right: 15px;
+  padding-left: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: #FF7B29;
+  border-width: 0.5px;
+  border-style: solid;
+  border-color: #fafafa;
+  border-radius: 7px;
+  margin-left: 30px;
+}
+
+.details-card h4{
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.far-div{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: smaller;
+}
+
+.bid{
+  margin-left: 25px;
+  color: #2d31346c;
+}
+
 
