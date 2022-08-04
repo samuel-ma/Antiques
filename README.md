@@ -17,7 +17,7 @@ An ecommerce solution to selling antiques online
 </ul>
 
 ## Features Implemented
-ul>
+<ul>
   <li>
     <li>
       <li>
