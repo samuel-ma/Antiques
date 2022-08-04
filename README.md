@@ -10,7 +10,7 @@ An ecommerce solution to selling antiques online
 </ul>
 
 ## Language used
-ul>
+<ul>
   <li>
     <li>
       <li>
