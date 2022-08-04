@@ -7,7 +7,7 @@ An ecommerce solution to selling antiques online
   <li>Adobe Xd
     <li>Adobe LightRoom
       <li>Figma
-        <li>
+        <li>Flaticon
 </ul>
 
 ## Language used
