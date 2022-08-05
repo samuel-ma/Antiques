@@ -19,7 +19,7 @@ An ecommerce solution to selling antiques online
 
 ## Features Implemented
 <ul>
-  <li>
-    <li>
-      <li>
+  <li>Marketplace
+    <li>Search
+      <li>Sort
 </ul>
