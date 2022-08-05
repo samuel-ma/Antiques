@@ -12,9 +12,9 @@ An ecommerce solution to selling antiques online
 
 ## Language used
 <ul>
-  <li>
-    <li>
-      <li>
+  <li>Html
+    <li>CSS
+      <li>jAVASCRIPT
 </ul>
 
 ## Features Implemented
