@@ -14,7 +14,7 @@ An ecommerce solution to selling antiques online
 <ul>
   <li>Html
     <li>CSS
-      <li>jAVASCRIPT
+      <li>Javascript
 </ul>
 
 ## Features Implemented
